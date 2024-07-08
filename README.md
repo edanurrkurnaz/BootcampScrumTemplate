@@ -1,77 +1,69 @@
 # **Takım İsmi**
 
-Takım X
+Takım 98
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Edanur Kurnaz: Product Owner
+- Betül Bektaş: Scrum Master
+- Yiğit Kalay: Team Member/Developer
+- Yunus Emre Erdoğan: Team Member/Developer
+- Yunus Sümer: Team Member/Developer
 
 ## Ürün İsmi
 
---Movie App--
+--ThinkMath--
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- ThinkMath ile yapay zeka destekli yeni nesil bir hesap makinesi geliştiriyoruz.ThinkMath, karmaşık matematik işlemlerini kolaylıkla çözen son teknolojiye sahip bir hesap makinesidir. İş, okul veya günlük hayatta kullanabileceğiniz bu uygulama, hızlı ve doğru sonuçlar sunar. ThinkMath ile her hesaplama işinizde verimlilik ve doğruluğu bir arada yaşayın.  .
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+-Karmaşık matematik işlemlerini hızlı ve doğru bir şekilde çözebilme yeteneği.
+-İleri düzey algoritmalarla desteklenen akıllı hesaplama özellikleri.
+-Kullanıcı dostu arayüzü ile kolay erişim ve kullanım sağlar.
+-İş, okul ve günlük yaşam için geniş kullanım alanı sunar.
+-Anlık ve hassas sonuçlar verir, hesaplamalarınızı güvenle yapmanızı sağlar.
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+-Öğrenciler: Matematik, mühendislik, finans ve diğer bilim dallarında eğitim gören lise ve üniversite öğrencileri.
+-Eğitimciler: Matematik ve fen bilimleri öğretmenleri, öğretim görevlileri ve özel ders veren eğitmenler.
+-Profesyoneller: Mühendisler, finans analistleri, veri bilimcileri, araştırmacılar ve diğer hesaplama gerektiren mesleklerde çalışan profesyoneller.
+-Genel Kullanıcılar: Günlük hayatta çeşitli hesaplama ihtiyaçları olan herkes.
+-Teknoloji Meraklıları: Yeni teknolojilere ve uygulamalara ilgi duyan, yapay zeka ve mobil uygulamaları keşfetmeyi seven bireyler.
 
 ## Product Backlog URL
-
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+?
 
 ---
 
 # Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notları**: Whatsapp grubu kurulmultur. İlk toplantı 8.7.2024 tarihinde tanışma ve fikir aktarımı çerçevesinde gerçeklemiştir. Bu toplantıda yol haritası konuşulmuş olup bir sonraki toplantı tarihi kararlaştırılmıştır.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: Henüz belirlenmemiştir.
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü whatsapp üzerinden yapılmasına karar verilmiştir. 
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+- **Ürün Durumu**: Ürün için henüz karara varılamamıştır. Temel anlamda fikir değerlendirilmesi yapılmış olup bir sonraki toplantıda nihai karara varılacaktır.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
-
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
-
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
-
+Alınan kararlar: Mevcut fikir için araştırma yapılacak.
+  Yeni fikirler üzerine toplantı gerçekleştirilecek ve hangi ürün üzerinden devam edileceğinin kararı verilecek.
+  
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Tekrar ürün hakkında fikir geliştirilmesine karar verilmiştir
 
 -**Diğer Notlar**:
-- N/A
+- 
 
 ---
 
